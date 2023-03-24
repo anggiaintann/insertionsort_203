@@ -71,3 +71,7 @@ void display() {			// Procedure display
 	}									// Output baris kosong
 	cout << endl;
 }
+
+int main()
+{
+	input();		// memanggil input
