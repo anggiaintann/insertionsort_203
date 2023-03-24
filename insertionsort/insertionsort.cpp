@@ -76,3 +76,5 @@ int main()
 {
 	input();		// memanggil input
 	insertionsort(); // memanggil insertionsort
+	display();		// memanggil display
+}
