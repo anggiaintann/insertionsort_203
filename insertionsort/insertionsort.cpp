@@ -75,3 +75,4 @@ void display() {			// Procedure display
 int main()
 {
 	input();		// memanggil input
+	insertionsort(); // memanggil insertionsort
